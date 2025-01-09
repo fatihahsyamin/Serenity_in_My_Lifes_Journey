@@ -1,0 +1,76 @@
+{
+	box-sizing: border-box;
+}
+h1
+{
+	font-family: Georgia;
+	color: darkblue;
+	text-align: center;
+	font-size: 50px;
+}
+.topnav
+{
+	background-color: powderblue;
+	border: 3px solid ivory;
+	overflow: hidden;
+}
+.topnav a
+{
+	float: left;
+	color: darkslateblue;
+	text-align: center;
+	padding: 16px 46.55px;
+	font-size: 18px;
+	font-family: garamond;
+	background-color: transparent;
+	text-decoration: none;
+}
+.topnav a:hover
+{
+	background-color: lavenderblush;
+	color: palevioletred
+}
+.topnav a.active
+{
+	background-color: lavenderblush;
+	color: palevioletred;
+}
+h2
+{
+	font-family: Lucida Handwriting;
+	color: midnightblue;
+	text-align: left;
+	font-size: 25px;
+	margin: 60px;
+}
+p
+{
+	font-family: Georgia;
+	color: mediumslateblue;
+	text-align: center;
+	font-size: 25;
+	
+}
+h3
+{
+	font-family: Lucida Handwriting;
+	font-size: 25px;
+	text-align: center;
+	color: darkblue;
+}
+h4
+{
+	font-family: Tahoma;
+	color: darkblue;
+	text-align: left;
+	font-size: 25px;
+	margin: 30px;
+}
+.center
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	height: 250px;
+}
